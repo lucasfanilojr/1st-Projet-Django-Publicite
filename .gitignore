@@ -1,0 +1,10 @@
+*.py
+compte/
+templates/
+static/
+media/
+.vscode/
+publicite/
+*.sqlite3
+administrateur.txt
+utilisateur.txt
